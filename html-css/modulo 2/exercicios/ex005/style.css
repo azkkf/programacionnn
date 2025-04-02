@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+* {
+    text-align: center;
+}
+
+h1 {  
+    font-family: "Atma", serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+}
+
+h2 {
+    font-family: "Caveat", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
