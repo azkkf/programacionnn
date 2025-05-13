@@ -1,0 +1,68 @@
+@charset "UTF-8";
+
+img {
+    max-width: 450px;
+    border-radius: 8px;
+}
+
+body {
+    background-color: hsl(30, 54%, 90%);
+
+}
+
+main {
+    background-color: white;
+    padding: 20px;
+    margin: 5em;
+    border-radius: 16px;
+    font-family: "Outfit", sans-serif;
+}
+
+main > h1 {
+    font-family: "Young Serif", sans-serif;
+    font-weight: normal;
+    color:  hsl(24, 5%, 18%);
+}
+
+
+main > h2 {
+    font-family: "Young Serif", sans-serif;
+    font-weight: normal;
+    color: hsl(14, 45%, 36%);
+}
+
+#preparation {
+    background-color: hsl(330, 100%, 98%);
+    font-family: "Outfit", sans-serif;
+    border-radius: 6px;
+    margin: auto;
+    padding: 10px;
+    padding-left: -10px;
+}
+
+#preparation > h3 {
+    color: hsl(332, 51%, 32%);
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td{
+    border-bottom: 1px solid black;
+    padding: 10px;
+    padding-right: 10em;
+}
+
+tr:last-child td{
+    border-bottom: none;
+}
+
+.color {
+    color: hsl(14, 45%, 36%);
+    font-weight: bolder;
+}
+
+.os {
+    color: hsl(30, 10%, 34%);
+}
